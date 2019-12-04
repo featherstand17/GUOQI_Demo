@@ -128,10 +128,9 @@
   word-wrap:break-word;
 }
 #u181 {
-  position:fixed;
-  left:50%;
-  margin-left:-134px;
-  bottom:0px;
+  position:absolute;
+  left:244px;
+  top:996px;
 }
 #u181_state0 {
   position:relative;
